@@ -1,0 +1,44 @@
+1605927700703	geckodriver	INFO	Listening on 127.0.0.1:60798
+1605927716409	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\steve\\AppData\\Local\\Temp\\rust_mozprofilez1qhVg"
+1605927717572	Marionette	INFO	Listening on port 60811
+1605927717939	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mybb.gvsu.edu/groupjs/01341A08B64A687EDD2DA7805A631C90.js?v=3700.0.8-rel.4+76636a5, line 6181: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://mybb.gvsu.edu/groupjs/01341A08B64A687EDD2DA7805A631C90.js?v=3700.0.8-rel.4+76636a5, line 6181: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+_create_dc_and_bitmap: The operation completed successfully.
+_create_dc_and_bitmap: The handle is invalid.
+_create_dc_and_bitmap: The handle is invalid.
+1605927759662	Marionette	INFO	Stopped listening on port 60811
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/modules/PageThumbUtils.jsm, line 38: TypeError: aWindow is null
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605928403938	geckodriver	INFO	Listening on 127.0.0.1:62462
+1605928419969	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\steve\\AppData\\Local\\Temp\\rust_mozprofilelMuCeB"
+1605928421294	Marionette	INFO	Listening on port 62471
+1605928421513	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mybb.gvsu.edu/groupjs/01341A08B64A687EDD2DA7805A631C90.js?v=3700.0.8-rel.4+76636a5, line 6181: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://mybb.gvsu.edu/groupjs/01341A08B64A687EDD2DA7805A631C90.js?v=3700.0.8-rel.4+76636a5, line 6181: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+_create_dc_and_bitmap: The operation completed successfully.
+_create_dc_and_bitmap: The handle is invalid.
+_create_dc_and_bitmap: The handle is invalid.
+1605928600436	Marionette	INFO	Stopped listening on port 62471
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605930784206	geckodriver	INFO	Listening on 127.0.0.1:65482

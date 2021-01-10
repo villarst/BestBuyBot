@@ -1,0 +1,676 @@
+1605925236252	geckodriver	INFO	Listening on 127.0.0.1:56656
+1605925249117	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\steve\\AppData\\Local\\Temp\\rust_mozprofile7vwmT2"
+1605925250235	Marionette	INFO	Listening on port 56664
+1605925250661	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript warning: https://secure4.arcot.com/content-server/ra/js/riskminder-client.js, line 90: unreachable code after return statement
+JavaScript warning: https://secure4.arcot.com/content-server/ra/js/riskminder-client.js, line 100: unreachable code after return statement
+JavaScript warning: https://secure4.arcot.com/content-server/ra/js/riskminder-client.js, line 167: unreachable code after return statement
+1605925314785	Marionette	INFO	Stopped listening on port 56664
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605925348687	geckodriver	INFO	Listening on 127.0.0.1:56986
+1605925361651	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\steve\\AppData\\Local\\Temp\\rust_mozprofiletnyiPn"
+1605925362771	Marionette	INFO	Listening on port 56996
+1605925363194	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.bestbuy.com"
+1605925437032	Marionette	INFO	Stopped listening on port 56996
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605925717379	geckodriver	INFO	Listening on 127.0.0.1:57860
+1605925733523	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\steve\\AppData\\Local\\Temp\\rust_mozprofilevWg89J"
+1605925734685	Marionette	INFO	Listening on port 57868
+1605925735068	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mybb.gvsu.edu/groupjs/01341A08B64A687EDD2DA7805A631C90.js?v=3700.0.8-rel.4+76636a5, line 6181: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://mybb.gvsu.edu/groupjs/01341A08B64A687EDD2DA7805A631C90.js?v=3700.0.8-rel.4+76636a5, line 6181: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+_create_dc_and_bitmap: The operation completed successfully.
+_create_dc_and_bitmap: The handle is invalid.
+_create_dc_and_bitmap: The handle is invalid.
+JavaScript warning: https://secure4.arcot.com/content-server/ra/js/riskminder-client.js, line 90: unreachable code after return statement
+JavaScript warning: https://secure4.arcot.com/content-server/ra/js/riskminder-client.js, line 100: unreachable code after return statement
+JavaScript warning: https://secure4.arcot.com/content-server/ra/js/riskminder-client.js, line 167: unreachable code after return statement
+1605925794418	Marionette	INFO	Stopped listening on port 57868
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605926800813	geckodriver	INFO	Listening on 127.0.0.1:59170
+1605926814623	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\steve\\AppData\\Local\\Temp\\rust_mozprofilexxuAxC"
+1605926815744	Marionette	INFO	Listening on port 59181
+1605926816160	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mybb.gvsu.edu/groupjs/01341A08B64A687EDD2DA7805A631C90.js?v=3700.0.8-rel.4+76636a5, line 6181: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript warning: https://mybb.gvsu.edu/groupjs/01341A08B64A687EDD2DA7805A631C90.js?v=3700.0.8-rel.4+76636a5, line 6181: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+_create_dc_and_bitmap: The operation completed successfully.
+_create_dc_and_bitmap: The handle is invalid.
+_create_dc_and_bitmap: The handle is invalid.
+1605926910499	Marionette	INFO	Stopped listening on port 59181
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605926930920	geckodriver	INFO	Listening on 127.0.0.1:59789
+1605926944720	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\steve\\AppData\\Local\\Temp\\rust_mozprofile16i3EV"
+1605926945854	Marionette	INFO	Listening on port 59799
+1605926946259	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mybb.gvsu.edu/groupjs/01341A08B64A687EDD2DA7805A631C90.js?v=3700.0.8-rel.4+76636a5, line 6181: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://mybb.gvsu.edu/groupjs/01341A08B64A687EDD2DA7805A631C90.js?v=3700.0.8-rel.4+76636a5, line 6181: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+_create_dc_and_bitmap: The operation completed successfully.
+_create_dc_and_bitmap: The handle is invalid.
+_create_dc_and_bitmap: The handle is invalid.
+1605926984910	Marionette	INFO	Stopped listening on port 59799
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605927879145	geckodriver	INFO	Listening on 127.0.0.1:61755
+1605927895105	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\steve\\AppData\\Local\\Temp\\rust_mozprofileeJSvIA"
+1605927896292	Marionette	INFO	Listening on port 61766
+1605927896638	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mybb.gvsu.edu/groupjs/01341A08B64A687EDD2DA7805A631C90.js?v=3700.0.8-rel.4+76636a5, line 6181: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://mybb.gvsu.edu/groupjs/01341A08B64A687EDD2DA7805A631C90.js?v=3700.0.8-rel.4+76636a5, line 6181: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+_create_dc_and_bitmap: The operation completed successfully.
+_create_dc_and_bitmap: The handle is invalid.
+_create_dc_and_bitmap: The handle is invalid.
+JavaScript warning: https://secure4.arcot.com/content-server/ra/js/riskminder-client.js, line 90: unreachable code after return statement
+JavaScript warning: https://secure4.arcot.com/content-server/ra/js/riskminder-client.js, line 100: unreachable code after return statement
+JavaScript warning: https://secure4.arcot.com/content-server/ra/js/riskminder-client.js, line 167: unreachable code after return statement
+1605927940940	Marionette	INFO	Stopped listening on port 61766
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605930812709	geckodriver	INFO	Listening on 127.0.0.1:65495
+1605930830450	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\steve\\AppData\\Local\\Temp\\rust_mozprofilebYibSh"
+1605930831725	Marionette	INFO	Listening on port 65504
+1605930832003	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mybb.gvsu.edu/groupjs/01341A08B64A687EDD2DA7805A631C90.js?v=3700.0.8-rel.4+76636a5, line 6181: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://mybb.gvsu.edu/groupjs/01341A08B64A687EDD2DA7805A631C90.js?v=3700.0.8-rel.4+76636a5, line 6181: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+_create_dc_and_bitmap: The operation completed successfully.
+_create_dc_and_bitmap: The handle is invalid.
+_create_dc_and_bitmap: The handle is invalid.
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1605931238347	Marionette	INFO	Stopped listening on port 65504
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605975727185	geckodriver	INFO	Listening on 127.0.0.1:53625
+1605975742563	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\steve\\AppData\\Local\\Temp\\rust_mozprofile5xwXmw"
+1605975743934	Marionette	INFO	Listening on port 53633
+1605975744099	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mybb.gvsu.edu/groupjs/01341A08B64A687EDD2DA7805A631C90.js?v=3700.0.8-rel.4+76636a5, line 6181: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://mybb.gvsu.edu/groupjs/01341A08B64A687EDD2DA7805A631C90.js?v=3700.0.8-rel.4+76636a5, line 6181: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+_create_dc_and_bitmap: The operation completed successfully.
+_create_dc_and_bitmap: The handle is invalid.
+_create_dc_and_bitmap: The handle is invalid.
+JavaScript warning: https://secure4.arcot.com/content-server/ra/js/riskminder-client.js, line 90: unreachable code after return statement
+JavaScript warning: https://secure4.arcot.com/content-server/ra/js/riskminder-client.js, line 100: unreachable code after return statement
+JavaScript warning: https://secure4.arcot.com/content-server/ra/js/riskminder-client.js, line 167: unreachable code after return statement
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1605975790813	Marionette	INFO	Stopped listening on port 53633
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605976559536	geckodriver	INFO	Listening on 127.0.0.1:54723
+1605976577208	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\steve\\AppData\\Local\\Temp\\rust_mozprofileTmn40T"
+1605976578562	Marionette	INFO	Listening on port 54732
+1605976578741	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mybb.gvsu.edu/groupjs/01341A08B64A687EDD2DA7805A631C90.js?v=3700.0.8-rel.4+76636a5, line 6181: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://mybb.gvsu.edu/groupjs/01341A08B64A687EDD2DA7805A631C90.js?v=3700.0.8-rel.4+76636a5, line 6181: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+_create_dc_and_bitmap: The operation completed successfully.
+_create_dc_and_bitmap: The handle is invalid.
+_create_dc_and_bitmap: The handle is invalid.
+1605976610147	Marionette	INFO	Stopped listening on port 54732
+
+###!!! [Child][RunMessage] Error: Channel closing: too lat1605976627178	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\steve\\AppData\\Local\\Temp\\rust_mozprofileo34Wqw"
+1605976628355	Marionette	INFO	Listening on port 55238
+1605976628715	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mybb.gvsu.edu/groupjs/01341A08B64A687EDD2DA7805A631C90.js?v=3700.0.8-rel.4+76636a5, line 6181: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://mybb.gvsu.edu/groupjs/01341A08B64A687EDD2DA7805A631C90.js?v=3700.0.8-rel.4+76636a5, line 6181: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+_create_dc_and_bitmap: The operation completed successfully.
+_create_dc_and_bitmap: The handle is invalid.
+_create_dc_and_bitmap: The handle is invalid.
+JavaScript warning: https://secure4.arcot.com/content-server/ra/js/riskminder-client.js, line 90: unreachable code after return statement
+JavaScript warning: https://secure4.arcot.com/content-server/ra/js/riskminder-client.js, line 100: unreachable code after return statement
+JavaScript warning: https://secure4.arcot.com/content-server/ra/js/riskminder-client.js, line 167: unreachable code after return statement
+1605976664304	Marionette	INFO	Stopped listening on port 55238
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605977530585	geckodriver	INFO	Listening on 127.0.0.1:56198
+1605977548944	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\steve\\AppData\\Local\\Temp\\rust_mozprofile12qGvD"
+1605977550170	Marionette	INFO	Listening on port 56217
+1605977550496	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mybb.gvsu.edu/groupjs/01341A08B64A687EDD2DA7805A631C90.js?v=3700.0.8-rel.4+76636a5, line 6181: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://mybb.gvsu.edu/groupjs/01341A08B64A687EDD2DA7805A631C90.js?v=3700.0.8-rel.4+76636a5, line 6181: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+_create_dc_and_bitmap: The operation completed successfully.
+_create_dc_and_bitmap: The handle is invalid.
+_create_dc_and_bitmap: The handle is invalid.
+1605977636521	Marionette	INFO	Stopped listening on port 56217
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605978391324	geckodriver	INFO	Listening on 127.0.0.1:56915
+1605978409392	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\steve\\AppData\\Local\\Temp\\rust_mozprofiletkXDBB"
+1605978410646	Marionette	INFO	Listening on port 56931
+1605978410935	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mybb.gvsu.edu/groupjs/01341A08B64A687EDD2DA7805A631C90.js?v=3700.0.8-rel.4+76636a5, line 6181: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://mybb.gvsu.edu/groupjs/01341A08B64A687EDD2DA7805A631C90.js?v=3700.0.8-rel.4+76636a5, line 6181: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+_create_dc_and_bitmap: The operation completed successfully.
+_create_dc_and_bitmap: The handle is invalid.
+_create_dc_and_bitmap: The handle is invalid.
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:405:10
+
+JavaScript warning: https://secure4.arcot.com/content-server/ra/js/riskminder-client.js, line 90: unreachable code after return statement
+JavaScript warning: https://secure4.arcot.com/content-server/ra/js/riskminder-client.js, line 100: unreachable code after return statement
+JavaScript warning: https://secure4.arcot.com/content-server/ra/js/riskminder-client.js, line 167: unreachable code after return statement
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1605978562345	Marionette	INFO	Stopped listening on port 56931
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605978821508	geckodriver	INFO	Listening on 127.0.0.1:57785
+1605978839013	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\steve\\AppData\\Local\\Temp\\rust_mozprofilefjeT2R"
+1605978840410	Marionette	INFO	Listening on port 57793
+1605978840554	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mybb.gvsu.edu/groupjs/01341A08B64A687EDD2DA7805A631C90.js?v=3700.0.8-rel.4+76636a5, line 6181: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://mybb.gvsu.edu/groupjs/01341A08B64A687EDD2DA7805A631C90.js?v=3700.0.8-rel.4+76636a5, line 6181: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+_create_dc_and_bitmap: The operation completed successfully.
+_create_dc_and_bitmap: The handle is invalid.
+_create_dc_and_bitmap: The handle is invalid.
+JavaScript error: https://assets.bbystatic.com/cart.bundle-2e2e647953e6616ae1ffb0d61ea382ff.js, line 1: TypeError: i is undefined
+JavaScript warning: https://secure4.arcot.com/content-server/ra/js/riskminder-client.js, line 90: unreachable code after return statement
+JavaScript warning: https://secure4.arcot.com/content-server/ra/js/riskminder-client.js, line 100: unreachable code after return statement
+JavaScript warning: https://secure4.arcot.com/content-server/ra/js/riskminder-client.js, line 167: unreachable code after return statement
+1605978913850	Marionette	INFO	Stopped listening on port 57793
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605980568959	geckodriver	INFO	Listening on 127.0.0.1:65205
+1605980584541	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\steve\\AppData\\Local\\Temp\\rust_mozprofilezK9j3V"
+1605980585794	Marionette	INFO	Listening on port 65215
+1605980586091	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mybb.gvsu.edu/groupjs/01341A08B64A687EDD2DA7805A631C90.js?v=3700.0.8-rel.4+76636a5, line 6181: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://mybb.gvsu.edu/groupjs/01341A08B64A687EDD2DA7805A631C90.js?v=3700.0.8-rel.4+76636a5, line 6181: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+_create_dc_and_bitmap: The operation completed successfully.
+_create_dc_and_bitmap: The handle is invalid.
+_create_dc_and_bitmap: The handle is invalid.
+1605980613675	Marionette	INFO	Stopped listening on port 65211605980628648	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\steve\\AppData\\Local\\Temp\\rust_mozprofilexsmAcI"
+1605980629846	Marionette	INFO	Listening on port 49331
+1605980630196	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mybb.gvsu.edu/groupjs/01341A08B64A687EDD2DA7805A631C90.js?v=3700.0.8-rel.4+76636a5, line 6181: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://mybb.gvsu.edu/groupjs/01341A08B64A687EDD2DA7805A631C90.js?v=3700.0.8-rel.4+76636a5, line 6181: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+_create_dc_and_bitmap: The operation completed successfully.
+_create_dc_and_bitmap: The handle is invalid.
+_create_dc_and_bitmap: The handle is invalid.
+JavaScript error: https://assets.bbystatic.com/cart.bundle-2e2e647953e6616ae1ffb0d61ea382ff.js, line 1: TypeError: i is undefined
+JavaScript warning: https://secure4.arcot.com/content-server/ra/js/riskminder-client.js, line 90: unreachable code after return statement
+JavaScript warning: https://secure4.arcot.com/content-server/ra/js/riskminder-client.js, line 100: unreachable code after return statement
+JavaScript warning: https://secure4.arcot.com/content-server/ra/js/riskminder-client.js, line 167: unreachable code after return statement
+JavaScript warning: https://secure4.arcot.com/content-server/ra/js/riskminder-client.js, line 90: unreachable code after return statement
+JavaScript warning: https://secure4.arcot.com/content-server/ra/js/riskminder-client.js, line 100: unreachable code after return statement
+JavaScript warning: https://secure4.arcot.com/content-server/ra/js/riskminder-client.js, line 167: unreachable code after return statement
+JavaScript error: https://assets.bbystatic.com//vendor/gvp-6222ccf1bcf5139d2c8b2b3affee0b87.min.js, line 158: Invariant Violation: Minified React error #152; visit https://reactjs.org/docs/error-decoder.html?invariant=152&args[]=LazyLoadingReduxPriceView for the full message or use the non-minified dev environment for full errors and additional helpful warnings. 
+JavaScript error: https://assets.bbystatic.com//vendor/gvp-6222ccf1bcf5139d2c8b2b3affee0b87.min.js, line 158: Invariant Violation: Minified React error #152; visit https://reactjs.org/docs/error-decoder.html?invariant=152&args[]=LazyLoadingReduxPriceView for the full message or use the non-minified dev environment for full errors and additional helpful warnings. 
+JavaScript error: https://assets.bbystatic.com//vendor/gvp-6222ccf1bcf5139d2c8b2b3affee0b87.min.js, line 158: Invariant Violation: Minified React error #152; visit https://reactjs.org/docs/error-decoder.html?invariant=152&args[]=LazyLoadingReduxPriceView for the full message or use the non-minified dev environment for full errors and additional helpful warnings. 
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://assets.bbystatic.com/shop/sponsored-listing/dist/client/client-25932b765e4941ba66044b30335d42ef.mjs, line 1: ChunkLoadError: Loading chunk 1 failed.
+(error: https://www.bestbuy.com/~assets/bby/_com/shop/sponsored-listing/dist/client/1-25932b765e4941ba66044b30335d42ef.mjs)
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.bestbuy.com/~assets/bby/_com/natural-language-platform/non-product-search/dist/client/client-4089534f3af38c15dabcabf1c07f50cf.mjs, line 1: Error: Loading chunk 1 failed.
+(error: https://www.bestbuy.com/~assets/bby/_com/natural-language-platform/non-product-search/dist/client/1-4089534f3af38c15dabcabf1c07f50cf.mjs)
+JavaScript error: https://www.bestbuy.com/~assets/bby/_com/shop/header/dist/client/client-current-2f2fa62bcf73b1addc7657e14cf3e01c.mjs, line 1: TypeError: e is undefined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1605980785787	Marionette	INFO	Stopped listening on port 49331
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605980812285	geckodriver	INFO	Listening on 127.0.0.1:50082
+1605980827841	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\steve\\AppData\\Local\\Temp\\rust_mozprofileW5p2PX"
+1605980829117	Marionette	INFO	Listening on port 50091
+1605980829408	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mybb.gvsu.edu/groupjs/01341A08B64A687EDD2DA7805A631C90.js?v=3700.0.8-rel.4+76636a5, line 6181: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://mybb.gvsu.edu/groupjs/01341A08B64A687EDD2DA7805A631C90.js?v=3700.0.8-rel.4+76636a5, line 6181: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://a.mailmunch.co/app/v1/site.js, line 1: TypeError: t is undefined
+1605980842540	Marionette	INFO	Stopped listening on port 50091
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606256961521	geckodriver	INFO	Listening on 127.0.0.1:60034
+1606256998376	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\steve\\AppData\\Local\\Temp\\rust_mozprofile9OvTVO"
+1606257000550	Marionette	INFO	Listening on port 60043
+1606257001068	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mybb.gvsu.edu/groupjs/01341A08B64A687EDD2DA7805A631C90.js?v=3700.0.8-rel.4+76636a5, line 6181: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://mybb.gvsu.edu/groupjs/01341A08B64A687EDD2DA7805A631C90.js?v=3700.0.8-rel.4+76636a5, line 6181: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.log: "REMOVE CACHED" "eyJhbGciOiJSUzI1NiIsInR5cCI6ImF0K0pXVCIsImtpZCI6IjIwMTkwNzMwLTU0ZmY5NTZlIn0.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmZpcmVmb3guY29tIiwiYXVkIjoiaHR0cHM6Ly90b2tlbi5zZXJ2aWNlcy5tb3ppbGxhLmNvbSIsImNsaWVudF9pZCI6IjU4ODIzODZjNmQ4MDE3NzYiLCJleHAiOjE2MDYwOTY2MTksImlhdCI6MTYwNjA3NTAxOSwianRpIjoiY2I5NjM4YTA3MzU1OGUwM2UxMjA0NDdkYzVkZDQxN2FlMGUyYWMyODA5MTFiYzhhY2YzZGE1Y2M5Mjk1ZTRiMiIsInNjb3BlIjoiaHR0cHM6Ly9pZGVudGl0eS5tb3ppbGxhLmNvbS9hcHBzL29sZHN5bmMiLCJzdWIiOiIyM2VkMDU4NTM3NzE0NWRkYjc3MjQ1NTBlYTcyZjBkZiIsImZ4YS1nZW5lcmF0aW9uIjoxNjA1NzMzMTgwNTc5LCJmeGEtcHJvZmlsZUNoYW5nZWRBdCI6MTYwNTczMzIwMDM4NX0.OxkS75a447mAchAHzrXu_pO36xntmmyWSTBP8xyNFrw3JoZKYk9tL5oEnzH-ewPbze6KFupNtO2VsQFTkOG05TmUeE6OIHTNcL5prtG96BkIMucbJEoJ7uG2r3_u8RqNQNszXyZR9F404j3iP0_25ik6-MZcXJb-B-kszSkJrNZJ1mqCut0pk9pEIO-Japy0O4kQuToEMZ1dtOQsh6Ghli_mHMcB-mKHAGuLETYyExZ4HEQcqj07NkKe2-2FNhZAFKlOw1C-3_sf8ThY86aHsB4FGXxRfZHE4RFi6wj2FPMBZdvsinQMlaJ0M8kb6gK0gg2x-pjReUzuljdfW2KsGg"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+_create_dc_and_bitmap: The operation completed successfully.
+_create_dc_and_bitmap: The handle is invalid.
+_create_dc_and_bitmap: The handle is invalid.
+JavaScript warning: https://secure4.arcot.com/content-server/ra/js/riskminder-client.js, line 90: unreachable code after return statement
+JavaScript warning: https://secure4.arcot.com/content-server/ra/js/riskminder-client.js, line 100: unreachable code after return statement
+JavaScript warning: https://secure4.arcot.com/content-server/ra/js/riskminder-client.js, line 167: unreachable code after return statement
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1606257096566	Marionette	INFO	Stopped listening on port 60043
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606355190334	geckodriver	INFO	Listening on 127.0.0.1:59136
+1606355208086	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\steve\\AppData\\Local\\Temp\\rust_mozprofileal9FTf"
+1606355209422	Marionette	INFO	Listening on port 59145
+1606355209625	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript warning: https://mybb.gvsu.edu/groupjs/01341A08B64A687EDD2DA7805A631C90.js?v=3700.0.8-rel.4+76636a5, line 6181: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript warning: https://mybb.gvsu.edu/groupjs/01341A08B64A687EDD2DA7805A631C90.js?v=3700.0.8-rel.4+76636a5, line 6181: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+_create_dc_and_bitmap: The operation completed successfully.
+_create_dc_and_bitmap: The handle is invalid.
+_create_dc_and_bitmap: The handle is invalid.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: NetworkError: A network error occurred.
+JavaScript error: , line 0: NetworkError: A network error occurred.
+JavaScript error: https://s0.2mdn.net/3876771/1600459023147/gwdgooglead_min.js, line 11: TypeError: a.a is null
+JavaScript warning: https://secure4.arcot.com/content-server/ra/js/riskminder-client.js, line 90: unreachable code after return statement
+JavaScript warning: https://secure4.arcot.com/content-server/ra/js/riskminder-client.js, line 100: unreachable code after return statement
+JavaScript warning: https://secure4.arcot.com/content-server/ra/js/riskminder-client.js, line 167: unreachable code after return statement
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1606355252062	Marionette	INFO	Stopped listening on port 59145
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606531187932	geckodriver	INFO	Listening on 127.0.0.1:59072
+1606531203499	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\steve\\AppData\\Local\\Temp\\rust_mozprofile8EEf84"
+1606531205716	Marionette	INFO	Listening on port 59080
+1606531206180	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript warning: https://mybb.gvsu.edu/groupjs/01341A08B64A687EDD2DA7805A631C90.js?v=3700.0.8-rel.4+76636a5, line 6181: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://mybb.gvsu.edu/groupjs/01341A08B64A687EDD2DA7805A631C90.js?v=3700.0.8-rel.4+76636a5, line 6181: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.log: "REMOVE CACHED" "eyJhbGciOiJSUzI1NiIsInR5cCI6ImF0K0pXVCIsImtpZCI6IjIwMTkwNzMwLTU0ZmY5NTZlIn0.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmZpcmVmb3guY29tIiwiYXVkIjoiaHR0cHM6Ly90b2tlbi5zZXJ2aWNlcy5tb3ppbGxhLmNvbSIsImNsaWVudF9pZCI6IjU4ODIzODZjNmQ4MDE3NzYiLCJleHAiOjE2MDYzNzYxNTUsImlhdCI6MTYwNjM1NDU1NSwianRpIjoiNDY1Nzc3ZWM0MTg5NmM3OGQ4YjI2MGFhZTAzMTlkOTNiYWYyODAyZGZhYWQ0MzQxZDEyY2UyZDU3MGFhNTZhMCIsInNjb3BlIjoiaHR0cHM6Ly9pZGVudGl0eS5tb3ppbGxhLmNvbS9hcHBzL29sZHN5bmMiLCJzdWIiOiIyM2VkMDU4NTM3NzE0NWRkYjc3MjQ1NTBlYTcyZjBkZiIsImZ4YS1nZW5lcmF0aW9uIjoxNjA1NzMzMTgwNTc5LCJmeGEtcHJvZmlsZUNoYW5nZWRBdCI6MTYwNTczMzIwMDM4NX0.G6mqMXLJnBIKAA-uUFOjOyaQTQGRAjhLIKDFKW9pgxMbEe8edbVyqjKX61nqbxTgqhn5sETCz3Y4sfGQIOEyVqrNRIs4a_S5EBd44yEOERACEBDDUxPHxRruxK59vOOVxvQcKLTkyIKnHC8CBk9Ih2r6OQGAIw1qwhORVy1jF44oCeShNb3Qnb6zJ1jBFFtwhCuqX85j23kaZd6ZRQ-ksb4dTBgYS-3S02PcJ-NdDNpvdbKUGIgu3QbmoKc1UpTJS_BXs8sgMSvi8kHbKh37iSRk5Y0gzF6g2QDxWH1vgdDBojIVlcTT30E2vBd6GDgIdsF3caRW2vARvFYqywftRw"
+JavaScript warning: https://secure4.arcot.com/content-server/ra/js/riskminder-client.js, line 90: unreachable code after return statement
+JavaScript warning: https://secure4.arcot.com/content-server/ra/js/riskminder-client.js, line 100: unreachable code after return statement
+JavaScript warning: https://secure4.arcot.com/content-server/ra/js/riskminder-client.js, line 167: unreachable code after return statement
+1606531242052	Marionette	INFO	Stopped listening on port 59080
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606531482847	geckodriver	INFO	Listening on 127.0.0.1:59809
+1606531498423	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\steve\\AppData\\Local\\Temp\\rust_mozprofileeShxsr"
+1606531499733	Marionette	INFO	Listening on port 59818
+1606531499974	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript warning: https://mybb.gvsu.edu/groupjs/01341A08B64A687EDD2DA7805A631C90.js?v=3700.0.8-rel.4+76636a5, line 6181: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://mybb.gvsu.edu/groupjs/01341A08B64A687EDD2DA7805A631C90.js?v=3700.0.8-rel.4+76636a5, line 6181: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://secure4.arcot.com/content-server/ra/js/riskminder-client.js, line 90: unreachable code after return statement
+JavaScript warning: https://secure4.arcot.com/content-server/ra/js/riskminder-client.js, line 100: unreachable code after return statement
+JavaScript warning: https://secure4.arcot.com/content-server/ra/js/riskminder-client.js, line 167: unreachable code after return statement
+JavaScript error: https://assets.bbystatic.com/vendor/gvp-6222ccf1bcf5139d2c8b2b3affee0b87.min.js, line 417: Error: Initializer failed to initialize component for shop-product-carousels-49352926-add-to-cart-6356636. Usually this is caused by an exception in your component's client init function.
+JavaScript error: https://assets.bbystatic.com/vendor/gvp-6222ccf1bcf5139d2c8b2b3affee0b87.min.js, line 417: Error: Initializer failed to initialize component for shop-product-carousels-49352926-add-to-cart-6357223. Usually this is caused by an exception in your component's client init function.
+JavaScript error: https://assets.bbystatic.com/vendor/gvp-6222ccf1bcf5139d2c8b2b3affee0b87.min.js, line 417: Error: Initializer failed to initialize component for shop-product-carousels-49352926-add-to-cart-6333800. Usually this is caused by an exception in your component's client init function.
+JavaScript error: https://assets.bbystatic.com/vendor/gvp-6222ccf1bcf5139d2c8b2b3affee0b87.min.js, line 417: Error: Initializer failed to initialize component for shop-product-carousels-49352926-add-to-cart-6365750. Usually this is caused by an exception in your component's client init function.
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6B0027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1606531530699	Marionette	INFO	Stopped listening on port 59818
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606531554656	geckodriver	INFO	Listening on 127.0.0.1:60230
+1606531570066	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\steve\\AppData\\Local\\Temp\\rust_mozprofilef5KzdN"
+1606531571380	Marionette	INFO	Listening on port 60239
+1606531571616	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript warning: https://mybb.gvsu.edu/groupjs/01341A08B64A687EDD2DA7805A631C90.js?v=3700.0.8-rel.4+76636a5, line 6181: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://mybb.gvsu.edu/groupjs/01341A08B64A687EDD2DA7805A631C90.js?v=3700.0.8-rel.4+76636a5, line 6181: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: , line 0: uncaught exception: 7
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: https://assets.bbystatic.com/vendor/gvp-6222ccf1bcf5139d2c8b2b3affee0b87.min.js, line 158: Invariant Violation: Minified React error #200; visit https://reactjs.org/docs/error-decoder.html?invariant=200 for the full message or use the non-minified dev environment for full errors and additional helpful warnings. 
+JavaScript warning: https://secure4.arcot.com/content-server/ra/js/riskminder-client.js, line 90: unreachable code after return statement
+JavaScript warning: https://secure4.arcot.com/content-server/ra/js/riskminder-client.js, line 100: unreachable code after return statement
+JavaScript warning: https://secure4.arcot.com/content-server/ra/js/riskminder-client.js, line 167: unreachable code after return statement
+1606531603665	Marionette	INFO	Stopped listening on port 60239
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
